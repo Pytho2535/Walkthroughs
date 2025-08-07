@@ -39,7 +39,7 @@ It is indeed malicious, but we earlier saw that the action was blocked so we don
 
 Now we check last two alerts
 <img width="1917" height="916" alt="12" src="https://github.com/user-attachments/assets/4a703f8b-936b-4934-9dea-d694e7b16d55" />
-First red flag that we can see is the sigh of urgency, then we see another suspicious link, so we check both links in both mails which are malicious and close these alerts.
+First red flag that we can see is the sign of urgency in the email, then we see another suspicious link, so we check both links in both mails which are malicious and close these alerts.
 
 And now we finished everything, all alerts were treated properly, we can see quick personal review of our actions and reports, which i find very cool.
 Thanks for reading.
